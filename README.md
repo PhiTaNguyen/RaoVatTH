@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="![2](https://github.com/PhiTaNguyen/RaoVatTH/assets/92621355/875c5f35-32a6-4423-8c47-2f1d4516967a)" alt="Mô tả hình ảnh">
+  <img src="https://github.com/PhiTaNguyen/RaoVatTH/assets/92621355/875c5f35-32a6-4423-8c47-2f1d4516967a" alt="Mô tả hình ảnh">
 </p>
 
 **Nhóm 1:**
