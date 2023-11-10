@@ -12,6 +12,9 @@
 - **Nhóm phát triển:** Phan Thế Kiệt, Scrum Master, Product Owner - Phát triển ứng dụng.
 
 ## Giới thiệu
+<p align="center">
+  <img src="https://github.com/PhiTaNguyen/RaoVatTH/raw/main/assets/92621355/ade36e3c-1d25-4457-97ca-8e5d4fa1cc21" alt="Image Description">
+</p>
 
 Dự án Ứng dụng Rao vặt là một ứng dụng di động đang được phát triển bằng Flutter và ngôn ngữ Dart. Dự án này nhằm mục tiêu tạo ra một ứng dụng rao vặt đa năng, hỗ trợ cả người mua và người bán.
 
