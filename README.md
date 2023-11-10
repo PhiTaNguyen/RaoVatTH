@@ -28,7 +28,9 @@ Sản phẩm mà bạn không cần đến vẫn có thể trở thành vật qu
 - **Framework:** Flutter
 
 ## Các chức năng đã làm
-
+Đăng nhập
+Đăng ký
+Thêm bài bán
 
 ## Hướng phát triển
 1. **Xây dựng giao diện người dùng:** Hoàn thiện giao diện người dùng để đảm bảo tính thẩm mỹ và trải nghiệm người dùng tốt.
