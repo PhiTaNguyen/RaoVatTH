@@ -22,7 +22,7 @@ Sản phẩm mà bạn không cần đến vẫn có thể trở thành vật qu
 
 ## Công nghệ
 <p align="center">
-  <img src="https://github.com/6hoo7/Rao-Vat/assets/140428458/ff974253-fb01-45c4-910f-c660ca346881" alt="Mô tả hình ảnh">
+  <img src="https://github.com/6hoo7/Rao-Vat/assets/140428458/ff974253-fb01-45c4-910f-c660ca346881](https://intech.vietnamworks.com/media/gallery/2023/02/03/63dcc0393b26b.jpg" alt="Mô tả hình ảnh">
 </p>
 - **Ngôn ngữ lập trình:** Dart
 - **Framework:** Flutter
