@@ -7,8 +7,8 @@
 </p>
 
 **Nhóm 1:**
-- **Scrum Master:** Nguyễn Phi Tá - Tạo các cuộc họp nhóm cho mọi thành viên để theo dõi tiến độ công việc của mọi người.
-- **Product Owner:** Nguyễn Trần Hoàng Hưng - Lên kế hoạch cho các sprint, phỏng vấn và tương tác với khách hàng.
+- **Product Owner:** Nguyễn Phi Tá - Tạo các cuộc họp nhóm cho mọi thành viên để theo dõi tiến độ công việc của mọi người.
+- **Scrum Master:** Nguyễn Trần Hoàng Hưng - Lên kế hoạch cho các sprint, phỏng vấn và tương tác với khách hàng.
 - **Nhóm phát triển:** Phan Thế Kiệt, Scrum Master, Product Owner - Phát triển ứng dụng.
 
 ## Giới thiệu
