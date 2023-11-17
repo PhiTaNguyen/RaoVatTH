@@ -8,8 +8,8 @@
 
 **Nhóm 1:**
 - **Product Owner:** Nguyễn Phi Tá - Tạo các cuộc họp nhóm cho mọi thành viên để theo dõi tiến độ công việc của mọi người.
-- **Scrum Master:** Nguyễn Trần Hoàng Hưng - Lên kế hoạch cho các sprint, phỏng vấn và tương tác với khách hàng.
-- **Nhóm phát triển:** Phan Thế Kiệt, Scrum Master, Product Owner - Phát triển ứng dụng.
+- **Nhóm phát triển:** Nguyễn Trần Hoàng Hưng - Lên kế hoạch cho các sprint, phỏng vấn và tương tác với khách hàng.
+- **Scrum Master:** Phan Thế Kiệt, Scrum Master, Product Owner - Phát triển ứng dụng.
 
 ## Giới thiệu
 Mục tiêu của App Rau Vặt là sẽ trở thành thị trường mua bán trực tuyến hàng đầu Việt Nam. Mục đích của Rau Vặt là cho phép người mua và người bán kết nối và giao dịch an toàn, dễ dàng trong một môi trường tiện lợi và rõ ràng.
